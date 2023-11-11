@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrián Arboledas
-- :mortar_board: Currently working as a backend engineer
+- :computer:Currently working as a backend engineer
 
 
 
